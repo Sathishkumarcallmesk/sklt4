@@ -1,0 +1,149 @@
+*{
+
+    margin: 0 auto;
+    padding: 0;
+
+}
+
+
+#flex{
+  
+    justify-content: center;
+    align-items: center;
+    width: 1200px;
+    height: auto;
+}
+
+.menubar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    padding-top: 30px;
+
+}
+
+
+.Logo > img {
+    padding-top: 30px;
+    
+        width: 100px;
+        padding-right: 500px;
+    }
+    
+    .set0{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+.gs{
+    font-weight: bolder;
+    line-height: 5px;
+}
+
+.subaa{
+
+
+    padding-top: 40px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    padding-right: 270px;
+    align-items: center;
+
+}
+
+
+.subb{
+font-weight: bolder;
+font-size: 60px;
+padding-bottom: 25px;
+}
+
+
+button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 3px;
+    width: 150px;
+}
+
+.seta{
+    width: 48%;
+ 
+}
+
+
+
+.setb{
+    width: 100px;
+}
+.subc{
+
+    padding-bottom: 40px;
+    padding-right: 150px;
+    }
+
+    .set1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 50px;
+    }
+
+    .subbb{
+        background-color: rgb(112, 110, 107);
+        border-radius: 5px;
+        width: 50%;
+    margin: 0px;
+    }
+    
+    .placeholder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+ 
+    }
+    
+    .placeholderinbox{
+        background-color: rgb(112, 110, 107);
+        border-radius: 5px;
+        width: auto;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .placeholderimagebox{
+        width: 100px;
+        padding: 40px;
+    }
+
+    .t1{
+        padding-top: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 10px;
+    }
+
+    .box1{
+        width: 24%;
+        padding-top: 50px;
+    }
+
+    .boxset{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .set2{
+        padding-top: 80px;
+        display: flex;
+        justify-content: space-between;
+      
+    }
+    .set2a{
+        width: 45%;
+    }
